@@ -1,7 +1,7 @@
 {
-  "name": "izuku-md",
+  "name": "Bamireids wife",
   "version": "0.0.7",
-  "description": "Multi device whatsapp bot by excelottah6.",
+  "description": "Multi device whatsapp bot by ۝⃟̥̩̩̩̥̩̥͚̮💍࿇𝔹𝕒𝕞𝕚𝕣𝕖𝕚𝕕᳀🌹⃝⃘̉̉̉̉̉̉🧚",
   "main": "lib/client.js",
   "type": "commonjs",
   "license": "GPL-3.0",
@@ -9,7 +9,7 @@
     "start": "pm2 start lib/client.js --deep-monitoring --attach --name izuku",
     "stop": "pm2 stop izuku"
   },
-  "author": "excelottah6",
+  "author": "۝⃟̥̩̩̩̥̩̥͚̮💍࿇𝔹𝕒𝕞𝕚𝕣𝕖𝕚𝕕᳀🌹⃝⃘̉̉̉̉̉̉🧚",
   "dependencies": {
     "soundcloud-downloader": "^1.0.0",
     "node-schedule": "^2.1.1",
