@@ -40,8 +40,8 @@ module.exports = {
   heroku:  process.env.heroku === undefined ? false : process.env.heroku,
   HEROKU: {
     HEROKU: process.env.HEROKU ||true,
-    API_KEY: process.env.HEROKU_API_KEY === undefined ? '' : process.env.HEROKU_API_KEY,
-    APP_NAME: process.env.HEROKU_APP_NAME === undefined ? 'kelvin' : process.env.HEROKU_APP_NAME
+    API_KEY: process.env.HEROKU_API_KEY === undefined ? '9111c8a8-14df-4dc8-badb-13c6d9bacf08' : process.env.HEROKU_API_KEY,
+    APP_NAME: process.env.HEROKU_APP_NAME === undefined ? 'kelvin12' : process.env.HEROKU_APP_NAME
 },
   VERSION: process.env.VERSION === undefined ? 'v.0.0.3' : process.env.VERSION,
   LANG: process.env.THEME|| '۝⃟̥̩̩̩̥̩̥͚̮💍࿇𝔹𝕒𝕞𝕚𝕣𝕖𝕚𝕕᳀🌹⃝⃘̉̉̉̉̉̉🧚',
