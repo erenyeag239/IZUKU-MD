@@ -44,7 +44,7 @@ module.exports = {
     APP_NAME: process.env.HEROKU_APP_NAME === undefined ? 'kelvin12' : process.env.HEROKU_APP_NAME
 },
   VERSION: process.env.VERSION === undefined ? 'v.0.0.3' : process.env.VERSION,
-  LANG: process.env.THEME|| '۝⃟̥̩̩̩̥̩̥͚̮💍࿇𝔹𝕒𝕞𝕚𝕣𝕖𝕚𝕕᳀🌹⃝⃘̉̉̉̉̉̉🧚',
+  LANG: process.env.THEME|| 'Garena'
   WORKTYPE: process.env.WORKTYPE === undefined ? 'private' : process.env.WORKTYPE
 };
 
